@@ -1,4 +1,4 @@
-# Respuestas a las Preguntas Teóricas (Sección 8)
+# Respuestas a las Preguntas Teóricas (Seccion 8)
 
 **Archivo:** `doc/questions.md`  
 **Proyecto:** RENTAL_CARS  
